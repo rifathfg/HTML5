@@ -1,0 +1,43 @@
+HTML: Hypertext Markup Language
+With html we can create a basic structure.
+To design different buttons and other structures of html we need CSS. The work of CSS is to give styles structures.
+The work of JavaScript is to make CSS dynamic, for example doing calculations, making button move etc. Basically making webpage interactive
+**Jquery is a language created by using JavaScript. Jquery can do more work by writing less code.
+
+What is HTML?
+=> HTML is not any programming language, but it's a markup language, by which we can easily create a web
+      page.        
+
+What is Markup Language?
+=> Markup Language is made by some conbination of markup tag by which we can display various stuff (text, image, video etc.)
+      in web page.
+
+Who discovered HTML?
+=> Tim Berners-Lee, 1989.
+
+Advantages of HTML=>
+1. Language is very easy to learn
+2. it's free
+3. Almost all browser supports HTML
+4. It's not case sensitive.
+5. Web pages made bt HTML takes less time to load.
+6. We can easily add text,image,audio,video etc.
+
+Disadvantages of HTML=>
+1. Need to remember syntax to write HTML.
+2. Can't create a dynamic page
+
+What is Tag?
+=> Tag is the heart of HTML. HTML documanets are mostly structured by combination of tags.
+      Example: <p> This is paragraph </p>
+      Here <p> is Tag and it's called opening tag and </p> is closing tag. Stuff between 2 tags are known as
+	  Elements.
+	  HTML tags are actually keyword. Tags are normally used in pair.
+
+Types Of Tag:
+=> 1. Container Tag: Has both opening and closing tag
+
+      2. Empty Tag : Doesn't have any closing tag.	
+
+HTML attribute:
+=> HTML attribute is used to increase the work rate of web page. For example: changing color of body.	  

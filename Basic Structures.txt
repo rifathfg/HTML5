@@ -1,0 +1,29 @@
+*Programs written in HTML are divided in 2 parts.
+1. Head : Head will generally contain title
+2. Body : Body will contain  every components, everything that will be displayed in a web page.
+
+BASIC STRUCTURE=>
+
+<!DOCTYPE html>
+
+<HTML>
+
+	<HEAD>
+	
+	</HEAD>
+	
+		<BODY>
+		
+		CONTENT
+		
+		</BODY>
+
+</HTML>
+
+Explaination:
+1. <!DOCTYPE html> : is the declaration of our html documents, so that browser knows what type of docunents
+                                to expect.
+2. Every HTML programs begin with <HTML> and ends with </HTML>.
+3. <HEAD> : Here we geenrally add title, date or name of the author etc.
+4. <BODY> : Body is the most important tag.	Everything that we want to display in web page will be written
+					in this tag.					
